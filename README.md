@@ -12,7 +12,7 @@ This project involves developing a simple API using a preferred programming lang
   - Returns JSON data for a specific student identified by their **ID**.
   - Data includes **name**, **enrolled program**, and **scores** for each subject.
 
-## Technologies Used
+## Technologies Used    
 - **Backend:** (Express Node.js)
 - **Version Control:** Git, GitHub
 - **Deployment:** AWS EC2, Nginx/Apache
